@@ -102,3 +102,6 @@
 
   <rect x="40" y="632" width="760" height="4" fill="url(#line)"/>
 </svg>
+<div align="center">
+  <img src="./domyx.svg" alt="DOMYX – HTML, CSS, JavaScript, Vue.js, Git" width="100%">
+</div>
