@@ -1,57 +1,48 @@
 <div align="center">
 
-# `DOMYX`
+# DOMYX
 
-### THE CRAFT OF WEB DEVELOPMENT
-
-![Blue line](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-2563EB?style=flat)
+**WEB DEVELOPMENT · CREATIVE CODING · CONTINUOUS LEARNING**
 
 <br>
 
-## `01` — THE CRAFT
+![HTML](https://img.shields.io/badge/HTML-0F172A?style=flat-square&logo=html5&logoColor=60A5FA)
+![CSS](https://img.shields.io/badge/CSS-0F172A?style=flat-square&logo=css3&logoColor=60A5FA)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=60A5FA)
+![Vue.js](https://img.shields.io/badge/Vue.js-0F172A?style=flat-square&logo=vuedotjs&logoColor=60A5FA)
+![Git](https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=60A5FA)
 
-<table>
-  <tr>
-    <td width="120"><code>HTML</code></td>
-    <td><code>██████████████████░░</code></td>
-    <td align="right"><code>90%</code></td>
-  </tr>
-  <tr>
-    <td><code>CSS</code></td>
-    <td><code>█████████████████░░░</code></td>
-    <td align="right"><code>85%</code></td>
-  </tr>
-  <tr>
-    <td><code>JavaScript</code></td>
-    <td><code>████████░░░░░░░░░░░░</code></td>
-    <td align="right"><code>40%</code></td>
-  </tr>
-  <tr>
-    <td><code>Vue.js</code></td>
-    <td><code>██████░░░░░░░░░░░░░░</code></td>
-    <td align="right"><code>30%</code></td>
-  </tr>
-  <tr>
-    <td><code>Git</code></td>
-    <td><code>████████████████░░░░</code></td>
-    <td align="right"><code>80%</code></td>
-  </tr>
-</table>
+</div>
 
-<br>
+---
 
-### `02` — TECH STACK
+### / ABOUT
 
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=38BDF8)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=38BDF8)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=38BDF8)
-![Vue.js](https://img.shields.io/badge/Vue.js-111827?style=flat-square&logo=vuedotjs&logoColor=38BDF8)
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=38BDF8)
+Building for the web, one idea at a time.  
+This profile is a collection of experiments, projects and things learned along the way.
 
-<br>
+### / TOOLKIT
 
-![Blue line](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-2563EB?style=flat)
+**Front end**  
+HTML · CSS · JavaScript · Vue.js
 
-### `ALWAYS LEARNING` &nbsp; · &nbsp; `ALWAYS BUILDING`
+**Workflow**  
+Git · GitHub
+
+### / SELECTED WORK
+
+> Projects will appear here as they take shape.
+
+<!-- Beispiel für ein Projekt:
+### Project name
+A short description of what it does.
+[View project →](LINK)
+-->
+
+---
+
+<div align="center">
+
+`DESIGN · BUILD · IMPROVE`
 
 </div>
